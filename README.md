@@ -11,4 +11,8 @@
 
 The purpose of this repository is to have an architecture with the image below
 
-![Architecture](./assets/objective.png "Architecture")
+
+<p align="center">
+  <img align="center" src="./assets/objective.png">
+</p>
+
