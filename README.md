@@ -1,4 +1,6 @@
-<center> <h1>WebSpringMicroServices</h1> </center>
+<p align="center">
+  <h1>WebSpringMicroServices</h1>
+ </p>
 
 <p align="center">
   <img align="center" src="./assets/main.png">
