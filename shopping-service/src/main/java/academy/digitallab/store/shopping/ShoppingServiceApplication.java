@@ -10,8 +10,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-@EnableHystrix
-@EnableHystrixDashboard
+@EnableHystrix  //To enable hystrix. Hystrix use the pattern circuit-breaker
+@EnableHystrixDashboard //To enable hystrix dashboard
 public class ShoppingServiceApplication {
 
 	public static void main(String[] args) {
